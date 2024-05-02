@@ -1,6 +1,4 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/widgets.dart';
 import 'package:meals/extension.dart';
 import 'package:meals/models/meal.dart';
 import 'package:meals/widgets/meal_item_trait.dart';
